@@ -1,0 +1,2 @@
+path: /api/alarm
+response: { "message": "上报成功" }

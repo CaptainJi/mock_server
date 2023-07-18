@@ -1,0 +1,14 @@
+path: /api/v1/faceset/removeface
+response:
+  {
+    "requestId": "1fe4292b-a616-49be-9d86-b3802a0fed45",
+    "timeUsed": 32,
+    "status": 0,
+    "data": {
+      "facesetToken": "{{facesetToken}}",
+      "outerId": "pad-new-1",
+      "faceRemoved": 1,
+      "faceCount": 0,
+      "failureDetail": null
+    }
+  }

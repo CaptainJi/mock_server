@@ -1,0 +1,15 @@
+path: /api/v3/faceset/directAdd
+response:
+  {
+    "requestId": "a39771e0-885e-46eb-bb9a-4b365c8074b0",
+    "timeUsed": 541,
+    "status": 0,
+    "data": {
+      "facesetToken": "9257122e-4d7c-45c2-a9d8-60b2e36b4bc7",
+      "outerId": "{{faceOutId}}",
+      "faceToken": "{{faceToken}}",
+      "faceAdded": 1,
+      "faceCount": 5,
+      "failureDetail": [ ]
+    }
+  }
