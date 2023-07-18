@@ -1,0 +1,11 @@
+path: /api/v3/faceset/create
+response:
+  {
+    "requestId": "f559b041-5fc1-468b-8c1d-fe82d23d82b0",
+    "timeUsed": 217,
+    "status": 0,
+    "data": {
+      "facesetToken": "{{facesetToken}}",
+      "outerId": "pad-new-1"
+    }
+  }
